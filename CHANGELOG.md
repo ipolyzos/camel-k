@@ -70,6 +70,7 @@
 - \[pull\] master from apache:master [\#14](https://github.com/ipolyzos/camel-k/pull/14) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#13](https://github.com/ipolyzos/camel-k/pull/13) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#12](https://github.com/ipolyzos/camel-k/pull/12) ([pull[bot]](https://github.com/apps/pull))
+- \[pull\] master from apache:master [\#6](https://github.com/ipolyzos/camel-k/pull/6) ([pull[bot]](https://github.com/apps/pull))
 
 ## [1.0.0-nightly.202003261646](https://github.com/ipolyzos/camel-k/tree/1.0.0-nightly.202003261646) (2020-03-26)
 
