@@ -66,7 +66,6 @@
 - \[pull\] master from apache:master [\#18](https://github.com/ipolyzos/camel-k/pull/18) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#17](https://github.com/ipolyzos/camel-k/pull/17) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#16](https://github.com/ipolyzos/camel-k/pull/16) ([pull[bot]](https://github.com/apps/pull))
-- \[pull\] master from apache:master [\#15](https://github.com/ipolyzos/camel-k/pull/15) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#14](https://github.com/ipolyzos/camel-k/pull/14) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#13](https://github.com/ipolyzos/camel-k/pull/13) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#12](https://github.com/ipolyzos/camel-k/pull/12) ([pull[bot]](https://github.com/apps/pull))
